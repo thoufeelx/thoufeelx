@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">R. Muhammed Thoufeel</h1>
 
-<!--
-**thoufeelx/thoufeelx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Focused. Disciplined. Building something that matters.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧭 Mission
+Clarity > Noise.  
+Execution > Talk.  
+Impact > Attention.
+
+---
+
+### 🛠️ Stack
+`Linux` `AWS` `Python` `Bash` `Git` `Kali`  
+Tools are temporary. Mastery is permanent.
+
+---
+
+### 📫 Contact
+📧 thoufeel.dev@gmail.com  
+(Portfolio link coming soon)
